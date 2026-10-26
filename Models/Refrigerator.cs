@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+// Developed and documented by (qusay-324588) Models layer 
 namespace ApplianceMaintenanceSystem.Models
 {
     public class Refrigerator : Appliance
