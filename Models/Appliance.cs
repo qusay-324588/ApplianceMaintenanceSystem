@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using ApplianceMaintenanceSystem.Interfaces;
-
+// Developed and documented by (qusay-324588) Models layer 
 namespace ApplianceMaintenanceSystem.Models
 {
     // an abstract class that implements an interface and contains common properties, as well as an abstract method for calculating repair costs
