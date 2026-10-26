@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+// Events and delegates management system developed by (andrea-231977)
 namespace ApplianceMaintenanceSystem.Events
 {
     // 1.(Delegate) To change the maintenance status and define the form of the future function
