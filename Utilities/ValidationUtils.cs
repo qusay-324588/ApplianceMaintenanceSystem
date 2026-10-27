@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
-
+//Validation utilities and static verification methods developed by (areej_338249)
 namespace ApplianceMaintenanceSystem.Utilities
 {
     //  (Static Class) Objects cannot be instantiated from it \ it is intended for data validation and static members
